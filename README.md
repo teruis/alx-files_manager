@@ -29,16 +29,16 @@ Resources
 
 **Read or watch**:
 
--   [Node JS getting started](https://alx-intranet.hbtn.io/rltoken/kZHDWCu20EsKxKzi51yWeg "Node JS getting started")
--   [Process API doc](https://alx-intranet.hbtn.io/rltoken/uYPplj2cPK8pcP0LtV6RuA "Process API doc")
--   [Express getting started](https://alx-intranet.hbtn.io/rltoken/SujfeWKCWmUMomfETjETEg "Express getting started")
--   [Mocha documentation](https://alx-intranet.hbtn.io/rltoken/FzEwplmoZiyGvkgKllZNJw "Mocha documentation")
--   [Nodemon documentation](https://alx-intranet.hbtn.io/rltoken/pdNNTX0OLugbhxvP3sLgOw "Nodemon documentation")
--   [MongoDB](https://alx-intranet.hbtn.io/rltoken/g1x7y_3GskzVAJBTXcSjmA "MongoDB")
--   [Bull](https://alx-intranet.hbtn.io/rltoken/NkHBpGrxnd0sK_fDPMbihg "Bull")
--   [Image thumbnail](https://alx-intranet.hbtn.io/rltoken/KX6cck2nyLpQOTDMLcwxLg "Image thumbnail")
--   [Mime-Types](https://alx-intranet.hbtn.io/rltoken/j9B0Kc-4HDKLUe88ShbOjQ "Mime-Types")
--   [Redis](https://alx-intranet.hbtn.io/rltoken/nqwKRszO8Tkj_ZWW1EFwGw "Redis")
+-   [Node JS getting started](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+-   [Process API doc](https://node.readthedocs.io/en/latest/api/process/)
+-   [Express getting started](https://expressjs.com/en/starter/installing.html)
+-   [Mocha documentation](https://mochajs.org/)
+-   [Nodemon documentation](https://github.com/remy/nodemon#nodemon)
+-   [MongoDB](https://github.com/mongodb/node-mongodb-native)
+-   [Bull](https://github.com/OptimalBits/bull)
+-   [Image thumbnail](https://www.npmjs.com/package/image-thumbnail)
+-   [Mime-Types](https://www.npmjs.com/package/mime-types)
+-   [Redis](https://github.com/redis/node-redis)
 
 Learning Objectives
 -------------------
